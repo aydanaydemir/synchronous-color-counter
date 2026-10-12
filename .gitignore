@@ -1,0 +1,28 @@
+# Quartus compilation databases and caches
+db/
+incremental_db/
+*.qws
+*.bak
+*.orig
+*.rpt
+*.smsg
+*.summary
+*.done
+*.jdi
+*.jditmp
+*.pin
+*.pof
+*.sld
+
+# Simulation artifacts
+*.vcd
+*.wlf
+work/
+transcript
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
